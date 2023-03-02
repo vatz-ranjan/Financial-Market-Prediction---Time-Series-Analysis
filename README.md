@@ -1,1 +1,1 @@
-# Financial-Market-Prediction---Time-Series-Analysis
+# FinancialMarketPrediction-TimeSeriesAnalysis-MinorProject
