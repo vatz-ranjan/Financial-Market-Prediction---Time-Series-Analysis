@@ -20,3 +20,12 @@ A time series is a series of data points indexed in timeorder. Most commonly, a 
 
 ![image](https://user-images.githubusercontent.com/73190244/222461411-6c815775-7673-4233-9f74-303630e4bafb.png)
 
+## Comparative Analysis
+
+![image](https://user-images.githubusercontent.com/73190244/222462752-b2e5f472-82e1-4db8-a26b-04f536bdbe4d.png)
+
+## Conclusion
+
+Time series models are powerful tools for the analysis of stock price data and prediction. The linear regression model is a simple and widely used method for time series analysis, while the AR, MA, ARMA, ARIMA, and LSTM models offer more advanced capabilities for dealing with non-linear and non-stationary data. However, it is important to note that the choice of model will depend on the specific data set. For example, if the data is known to be non-linear, an ARIMA or LSTM model may be more appropriate. On the other hand, if the data is linear, a linear regression model may be sufficient. Additionally, it is important to be aware of the limitations of each model and to interpret the results with caution. For example, the LSTM model may be sensitive to the values in the data so scaling/normalization is done for dealing with that condition, while the ARIMA model may not be able to capture long-term patterns in the data and data must be stationary for implementing the ARMA and ARIMA models. Combining the strengths of different models makes it possible to build a hybrid model that can effectively capture both linear and non-linear relationships in the data.
+
+
