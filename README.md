@@ -1,4 +1,4 @@
-# FinancialMarketPrediction-TimeSeriesAnalysis-MinorProject
+# FinancialMarketPrediction-MinorProject
 
 This research project is focused on making a regression-based Price Prediction of stocks using various statistical and machine-learning models. The target variable for the prediction was the stock's closing price, and the study focused on the Indian financial markets. The data was gathered over 25 years using the YFinance API from Yahoo Finance.
 
